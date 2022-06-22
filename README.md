@@ -19,11 +19,11 @@ Analysis of the single stage Folded Cascode op-amp
 
 
 
-## See also: 2-stage Miller-compensated amplifier
+## See also: 2 stage Miller compensated amplifier
 
 (Separate repo):
 
-[2-stage Miller compensated amplifier]([https://github.com/powergainer/Folded_cascode_op-amp](https://github.com/powergainer/2-stage_Miller_compensated_opamp))
+[2-stage Miller compensated op amp](https://github.com/powergainer/2-stage_Miller_compensated_opamp)
 
 
 References

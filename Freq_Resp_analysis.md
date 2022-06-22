@@ -69,5 +69,8 @@ Next, Noise and Offset of the folded cascode opamp.
 
 ## Noise and Offset of the folded cascode opamp.
 
+Next:
+
+* [Noise and Offset](Noise_and_Offset_analysis.md)
 
 

@@ -35,4 +35,8 @@ This is the end of the analysis of the three single stage op amp topologies. Now
 
 
 
+## See also: 2 stage Miller compensated amplifier
 
+(Separate repo):
+
+[2-stage Miller compensated op amp](https://github.com/powergainer/2-stage_Miller_compensated_opamp)

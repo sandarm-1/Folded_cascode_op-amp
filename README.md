@@ -11,9 +11,7 @@ Analysis of the single stage Folded Cascode op-amp
 ---
 [Frequency response](/Freq_Resp_analysis.md)
 
-[Noise](/Noise_analysis.md)
-
-[Offset](/Offset_analysis.md)
+[Noise and Offset](/Noise_and_Offset_analysis.md)
 
 [Slew Rate](/Slew_Rate_analysis.md)
 
